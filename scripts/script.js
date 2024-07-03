@@ -1,0 +1,1 @@
+alert('Prossiga apenas se você é maior de 18 anos!');
